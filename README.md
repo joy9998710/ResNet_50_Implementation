@@ -1,4 +1,4 @@
-#ResNet_50 full implementation   
+# ResNet_50 full implementation   
 
 -----
 
